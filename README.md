@@ -1,0 +1,3 @@
+# SimpleCalculator
+
+It simply calculates.
